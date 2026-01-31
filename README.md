@@ -1,2 +1,3 @@
-# the-prompt-florist
-Lets make beautiful prompts together. 💐
+# Prompt Florist 🌸
+
+Prompt Florist grows vague ideas into precise, art-directed prompts.
